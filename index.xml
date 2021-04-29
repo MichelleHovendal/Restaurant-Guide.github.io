@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Apr 2021 08:33:03 +0200</lastBuildDate><atom:link href="https://restaurant-guide.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
+      <title>Yelp</title>
       <link>https://restaurant-guide.github.io/post/about/</link>
       <pubDate>Sun, 18 Apr 2021 08:30:00 +0200</pubDate>
       
       <guid>https://restaurant-guide.github.io/post/about/</guid>
-      <description>A small intro of our dataset</description>
+      <description>A small intro to yelp</description>
     </item>
     
     <item>
@@ -28,12 +28,21 @@ General Overveiw of the plots Text about the plot
     </item>
     
     <item>
-      <title>Find Restaurant</title>
+      <title>Reviews</title>
+      <link>https://restaurant-guide.github.io/post/reviews/</link>
+      <pubDate>Sun, 18 Apr 2021 08:33:03 +0200</pubDate>
+      
+      <guid>https://restaurant-guide.github.io/post/reviews/</guid>
+      <description>Ellen tryller</description>
+    </item>
+    
+    <item>
+      <title>Find your favorite restaurant</title>
       <link>https://restaurant-guide.github.io/post/find-restaurant/</link>
       <pubDate>Sun, 18 Apr 2021 08:33:03 +0200</pubDate>
       
       <guid>https://restaurant-guide.github.io/post/find-restaurant/</guid>
-      <description>Cool maps of our restaurants</description>
+      <description>Cool map of our restaurants</description>
     </item>
     
   </channel>
