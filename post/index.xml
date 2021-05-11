@@ -22,7 +22,7 @@
       <pubDate>Fri, 16 Apr 2021 23:47:01 +0200</pubDate>
       
       <guid>https://restaurant-guide.github.io/post/exploratory-data-analysis/</guid>
-      <description>Before you get into the root cause analysis of this project, an exploratory data analysis is presented, which will give you an overview of different metrics used. The first section will give you a brief introduction to where the states, how many restaurants, but also present how many there are under the two self-made categories, namely kitchen and type. The next section will give an overview of how the stars are distributed on state, kitchen and type.</description>
+      <description>Before you get into the root cause analysis of this project, an exploratory data analysis is presented, which will give you an overview of different calculation used. The first section will give you a brief introduction to where the states are placed, how many restaurants there are, but also present how many there are under the two categories, namely kitchen and type. The next section will give an overview of how the stars are distributed on state, kitchen and type.</description>
     </item>
     
     <item>
@@ -31,8 +31,8 @@
       <pubDate>Sun, 18 Apr 2021 08:33:03 +0200</pubDate>
       
       <guid>https://restaurant-guide.github.io/post/reviews/</guid>
-      <description>Fake reviews In this section the fake reviews are detected. That is, the 20% reviews that are most likely to be fake reviews, are detected as fake reviews. In that way you will able to find you restaurant based on what is detected as the real reviews.
-In the plot below is shown the percentage of fake reviws. The four tabs show percentage fake reviews within some feature; either stars, type of restaurant, type of kitchen or state.</description>
+      <description>Fake reviews In this section the fake reviews are detected. Based on research studies, it is said that 20% of the reviews are most likely to be fake reviews. In that way you will able to find you restaurant based on what is detected as the real reviews. (? - Tror ikke jeg forstår)
+In the plot below, it is shown the percentage of fake reviws over different categories. The four tabs show the percentage of fake reviews within some feature; either stars, type of restaurant, type of kitchen or state.</description>
     </item>
     
     <item>
