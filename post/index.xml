@@ -13,7 +13,7 @@
       <pubDate>Wed, 05 May 2021 08:30:00 +0200</pubDate>
       
       <guid>https://restaurant-guide.github.io/post/about/</guid>
-      <description>What is Yelp? Yelp is an American company founded in 2004. The idea behind the company is to publish crowd-sourced reviews about businesses through their website Yelp.com and mobile app Yelp. In the second quarter of 2019, Yelp has an average of 61.8 million unique visitors through their website, while it was 76.7 million unique visitors on the app. As the internet gets filled with more and more information and the likelihood of the information being false, Yelp then provides a local platform for people to discover the true information.</description>
+      <description>What is Yelp? Yelp is an American company founded in 2004. The idea behind the company is to publish crowd-sourced reviews about businesses through their website Yelp.com and mobile app Yelp. In the second quarter of 2019, Yelp had 61.8 million unique visitors through their website, while there were 76.7 million unique visitors on the app. As the internet gets filled with more and more information and the likelihood of the information being false, Yelp then provides a local platform for people to discover the true information.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Fri, 16 Apr 2021 23:47:01 +0200</pubDate>
       
       <guid>https://restaurant-guide.github.io/post/exploratory-data-analysis/</guid>
-      <description>Before you get into the root cause analysis of this project, an exploratory data analysis is presented, which will give you an overview of different calculation used. The first section will give you a brief introduction to where the states are placed, how many restaurants there are, but also present how many there are under the two categories, namely kitchen and type. The next section will give an overview of how the stars are distributed on state, kitchen and type.</description>
+      <description>Before you get into the root cause analysis of this project, an exploratory data analysis is presented, which will give you an overview of different calculations used. The first section will give you a brief introduction to where the states are placed, how many restaurants there are, but also present how many there are under the two categories, namely kitchen and type. The next section will give an overview of how the stars are distributed on state, kitchen and type.</description>
     </item>
     
     <item>
@@ -31,8 +31,8 @@
       <pubDate>Sun, 18 Apr 2021 08:33:03 +0200</pubDate>
       
       <guid>https://restaurant-guide.github.io/post/reviews/</guid>
-      <description>Fake reviews In this section the fake reviews are detected. Based on research studies, it is said that 20% of the reviews are most likely to be fake reviews. In this section you can see where the fake reviews are detected based on the star given in the review, star of the restaurant, type of restaurant, type of kitchen and states.
-In the plot below, it is shown the percentage of fake reviws over different categories.</description>
+      <description>Fake reviews Finally, it is now presented how fake reviews are detected. Based on research studies, it is estimated that 20% of the reviews are most likely to be fake reviews. In this section, you can see where the fake reviews are detected based on the star given in the review, star of the restaurant, type of restaurant, type of kitchen and states.
+In the plot below, the percentage of fake reviews over different categories is shown.</description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@ In the plot below, it is shown the percentage of fake reviws over different cate
       <pubDate>Sun, 18 Apr 2021 08:33:03 +0200</pubDate>
       
       <guid>https://restaurant-guide.github.io/post/find-restaurant/</guid>
-      <description>Welcome to the final tool of this website, namely the interactive map where you can find your new favorite restaurant. See the gif how to use the plot and how you can use the table. The plot is presented below, if the mybinder shows up blank, please click on the launch binder and it will launches in a new tap. Sorry for any inconvience if this is the case for you.</description>
+      <description>Welcome to the final tool of this website - the interactive map where you can find your new favorite restaurant! See the gif on how to use the plot and how you can use the table. The plot is presented below, if the MyBinder shows up blank, please click on the launch binder and it will launch in a new tap. Sorry for any inconvenience if this is the case for you.</description>
     </item>
     
   </channel>
