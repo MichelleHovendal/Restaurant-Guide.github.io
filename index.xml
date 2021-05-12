@@ -31,8 +31,8 @@
       <pubDate>Sun, 18 Apr 2021 08:33:03 +0200</pubDate>
       
       <guid>https://restaurant-guide.github.io/post/reviews/</guid>
-      <description>Fake reviews In this section the fake reviews are detected. Based on research studies, it is said that 20% of the reviews are most likely to be fake reviews. In that way you will able to find you restaurant based on what is detected as the real reviews. (? - Tror ikke jeg forstår)
-In the plot below, it is shown the percentage of fake reviws over different categories. The four tabs show the percentage of fake reviews within some feature; either stars, type of restaurant, type of kitchen or state.</description>
+      <description>Fake reviews In this section the fake reviews are detected. Based on research studies, it is said that 20% of the reviews are most likely to be fake reviews. In this section you can see where the fake reviews are detected based on the star given in the review, star of the restaurant, type of restaurant, type of kitchen and states.
+In the plot below, it is shown the percentage of fake reviws over different categories.</description>
     </item>
     
     <item>
